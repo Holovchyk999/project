@@ -14,4 +14,5 @@ let numderOfFilms3 = prompt("какая оценка фильма?", "");
 };
 
 personalMovieDB.movies[numderOfFilms2] = numderOfFilms3;
+
 console.log(personalMovieDB);
